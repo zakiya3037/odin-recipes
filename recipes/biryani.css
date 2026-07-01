@@ -1,6 +1,7 @@
-* {
-color:blue;
+ul,ol,p{
+    background-color:#FFF3FA;
 }
-h1{
-    color:blueviolet;
+
+h1,h2{
+    color: palevioletred;
 }
